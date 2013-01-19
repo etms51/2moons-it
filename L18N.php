@@ -1,8 +1,7 @@
 <?php
-
 /*
 * Tradotto in italiano da XxidroxX
-* Repository: https://bitbucket.org/XxidroxX/2moons-it
+* Repository: https://github.com/XxidroxX/2moons-it
 * Supporto: http://aesma.it
 */
 setlocale(LC_ALL, 'it_IT', 'italian'); // http://msdn.microsoft.com/en-us/library/39cwe7zf%28vs.71%29.aspx
