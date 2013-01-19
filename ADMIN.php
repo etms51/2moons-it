@@ -853,8 +853,8 @@ $LNG['se_search_planets'][2]			= 'Proprietario';
 $LNG['se_search_planets'][3]			= 'Ultima attivit&agrave';
 $LNG['se_search_planets'][4]			= 'Galassia';
 $LNG['se_search_planets'][5]			= 'Sistema';
-$LNG['se_search_planets'][6]			= "Pianeta';
-$LNG['se_search_planets'][7]			= 'Ha la luna?";
+$LNG['se_search_planets'][6]			= 'Pianeta';
+$LNG['se_search_planets'][7]			= 'Ha la luna?';
 
 // 
 $LNG['se_search_banned'][0]				= $SE_ID;
