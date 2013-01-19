@@ -38,15 +38,11 @@ $LNG['time_minutes']                    = 'Minuti';
 $LNG['time_seconds']                    = 'Secondi';
 //###########################################################//
 
-$LNG['info_information']                = 'Segnala un bug al nostro forum <a href="%s" target="tracker">Aesma</a>!';
+$LNG['info_information']                = 'Segnala un bug al nostro <a href="%s" target="tracker">forum</a>!';
 
-$LNG['one_is_yes'][1]                   = 'Si';
-$LNG['one_is_yes'][0]                   = 'no';
-
-$LNG['one_is_no'][1]                    = 'Si';
-$LNG['one_is_no'][0]                    = 'no';
+$LNG['one_is_yes'][1]                   = $LNG['one_is_no'][1] = 'Si';
+$LNG['one_is_yes'][0]                   = $LNG['one_is_no'][0] = 'No';
 //###########################################################//
-
 
 //---------------	Bottoni	------------------------// 
 $LNG['button_submit']                   = 'Invia';
@@ -57,7 +53,6 @@ $LNG['button_deselect']                 = 'Cancella selezionati';
 $LNG['button_reset']                    = 'Reset';
 $LNG['button_des_se']                   = 'Seleziona o deseleziona tutto';
 //###########################################################//
-
 
 //---------------	ID	------------------------//
 $LNG['input_id']                        = 'ID';
@@ -98,7 +93,6 @@ $LNG['ad_editor_planets']				= 'Pianeti e lune';
 $LNG['ad_editor_resources']				= 'Risorse';
 $LNG['ad_editor_alliances']				= 'Alleanza';
 $LNG['ad_editor_authlevels']			= 'Amministra diritti';
-
 
 $LNG['ad_add_not_exist']		        = 'ID non esiste!';
 
@@ -164,7 +158,7 @@ $LNG['ad_ally_not_exist3']				= 'Giocatore non esistente o non membro dell\'alle
 $LNG['ad_ally_not_exist']				= 'Alleanza non trovata!';
 $LNG['ad_ally_not_exist2']				= 'Giocatore non trovato!';
 
-// PLANETS AND MOONS
+// PIANETI E LUNE
 $LNG['ad_pla_title']					= 'Modifica pianeta o luna';
 $LNG['ad_pla_edit_name']				= 'Modifica nome';
 $LNG['ad_pla_change_id']				= 'Modifica il proprietario (Inserisci l\'ID utente)';
