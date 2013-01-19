@@ -31,7 +31,7 @@ $LNG['licence_accept']			= 'Per continuare questa installazione devi accettare i
 $LNG['licence_need_accept']		= 'Se vuoi continuare devi accettare questi termini!!!';
 
 $LNG['req_head']				= 'Requisiti';
-$LNG['req_desc']				= 'Prima di iniziare la traduzione, 2Moons far&agrave; qualche test per controllare che il tuo server sia idoneo ad ospitare questo enginei.';
+$LNG['req_desc']				= 'Prima di iniziare la traduzione, 2Moons far&agrave; qualche test per controllare che il tuo server sia idoneo ad ospitare questo engine.';
 $LNG['reg_yes']					= 'Si';
 $LNG['reg_no']					= 'No';
 $LNG['reg_found']				= 'Trovato';
