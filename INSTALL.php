@@ -87,7 +87,7 @@ $LNG['step2_config_exists']		= 'config.php esiste gi&agrave;!';
 $LNG['step2_db_done']			= 'La connessione con il database &egrave; stata instaurata con successo!';
 
 $LNG['step3_head']				= 'Creazione delle tabelle';
-$LNG['step3_desc']				= 'The tables needed for the 2Moons database already have been created and populated with default values. To go to the next step, conclude the installation of 2Moons';
+$LNG['step3_desc']				= "Le tabelle necessarie per il database 2Moons sono state gi&egrave; create e compilate con i valori predefiniti. Per passare alla fase successiva, concludi l'installazione di 2Moons.";
 $LNG['step3_db_error']			= 'Tabelle non create:';
 
 $LNG['step4_head']				= 'Account di amministratore';
