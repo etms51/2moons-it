@@ -130,7 +130,7 @@ $LNG['passwordNext']	                = 'Avanti';
 //case default
 $LNG['login_error_1']	                = 'Username/password sbagliati!';
 $LNG['login_error_2']	                = 'Qualcuno da un altro PC si &egrave; loggato nel tuo account!';
-$LNG['login_error_3']	                = 'La tua sessione &egrave; scaduta!';
+$LNG['login_error_3']	                = 'La tua sessione è scaduta!';
 $LNG['login_error_4']	                = 'C\'&egrave; stato un errore interno nelle autorizzazioni, prova di nuovo!';
 
 //Rules
