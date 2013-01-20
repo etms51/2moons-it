@@ -476,7 +476,7 @@ $LNG['se_disclamerAddress']				= 'Indirizzo';
 $LNG['se_disclamerPhone']				= 'Numero di telefono';
 $LNG['se_disclamerMail']				= 'Indirizzo email';
 $LNG['se_disclamerNotice']				= 'Maggiori informazioni';
-$LNG['se_energy_speed']		            = 'Energy Factor';
+$LNG['se_energy_speed']		            = 'Fattore di energia';
 
 //###########################################################//
 //---------------	MODERAZIONE	------------------------//
