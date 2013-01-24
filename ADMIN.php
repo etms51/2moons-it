@@ -349,7 +349,7 @@ $LNG['se_recaptcha_active']				= 'Attiva reCAPTCHA';
 $LNG['se_reg_closed']					= 'Chiudi registrazioni';
 $LNG['se_min_build_time']				= 'Minime costruzioni';
 $LNG['se_min_build_time_info']			= 'Qui si regola il tempo minimo di costruzione di edifici, Ricerche, così come flotte e di difesa. Questo valore predefinito &egrave impostato su 1.<br>Se &egrave impostato a 0, sar&agrave disattivato.<br><font color=orange>Attenzione - In alcuni casi, quando l\'impostazione &egrave settata su 0, si hanno dei bug! </font>';
-$LNG['se_news_head']					= 'Impostaioni News';
+$LNG['se_news_head']					= 'Impostazioni News';
 $LNG['se_news_active']					= 'Attiva News';
 $LNG['se_news_limit']					= 'Max 255 Caratteri!';
 $LNG['se_news_info']					= 'Se &egrave deselezionato, le news verranno rimosse dal menu riepilogo.';
