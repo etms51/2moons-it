@@ -507,7 +507,7 @@ $LNG['ad_authlevel_tt']        			= '[Guarda tutto]';
 //###########################################################//
 $LNG['se_server_colonisation_config']   = 'Configurazioni di colonizzazione';
 $LNG['se_planets_min']                  = 'Pianeti max senza ricerca';
-$LNG['se_planets_min_info']             = 'From the outset, the player has the opportunity to occupy the specified number of planets';
+$LNG['se_planets_min_info']             = 'Fin dall\'inizio, il giocatore ha la possibilit&agrave; di occupare il numero specificato di pianeti';
 $LNG['se_planets_tech']                 = 'Massime colonie con l\'astrofisica';
 $LNG['se_planets_tech_info']            = 'This is how many planets user can have with Astrophysics';
 $LNG['se_planets_officier']             = 'Maximum number of additional planet by officers';
