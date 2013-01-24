@@ -512,8 +512,8 @@ $LNG['se_planets_tech']                 = 'Massime colonie con l\'astrofisica';
 $LNG['se_planets_tech_info']            = 'This is how many planets user can have with Astrophysics';
 $LNG['se_planets_officier']             = 'Maximum number of additional planet by officers';
 $LNG['se_planets_officier_info']        = 'Per level of the officer, the user should have a new amount of planets to colonize';
-$LNG['se_planets_per_tech']             = 'Additional planets per level of Astrophysics';
-$LNG['se_planets_per_tech_info']        = 'This is the amount of colonies unlock per level';
+$LNG['se_planets_per_tech']             = 'Pianeti aggiuntivi per livello dell\'Astrofisica';
+$LNG['se_planets_per_tech_info']        = 'Questa &egrave; la quantit&agrave; di colonie sbloccate per livello';
 
 //---------------	FLOTTA IN VOLO	------------------------//
 $LNG['ff_starttime']			        = "Partenza";
