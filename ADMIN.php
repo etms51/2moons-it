@@ -510,8 +510,8 @@ $LNG['se_planets_min']                  = 'Pianeti max senza ricerca';
 $LNG['se_planets_min_info']             = 'Fin dall\'inizio, il giocatore ha la possibilit&agrave; di occupare il numero specificato di pianeti';
 $LNG['se_planets_tech']                 = 'Massime colonie con l\'astrofisica';
 $LNG['se_planets_tech_info']            = 'This is how many planets user can have with Astrophysics';
-$LNG['se_planets_officier']             = 'Maximum number of additional planet by officers';
-$LNG['se_planets_officier_info']        = 'Per level of the officer, the user should have a new amount of planets to colonize';
+$LNG['se_planets_officier']             = 'Numero massimo di pianeti aggiuntivi dagli ufficiali';
+$LNG['se_planets_officier_info']        = 'Per livello dell\'ufficiale, l\'utente ha una nuova quantit&agrave; di pianeti da colonizzare';
 $LNG['se_planets_per_tech']             = 'Pianeti aggiuntivi per livello dell\'Astrofisica';
 $LNG['se_planets_per_tech_info']        = 'Questa &egrave; la quantit&agrave; di colonie sbloccate per livello';
 
