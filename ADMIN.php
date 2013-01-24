@@ -606,9 +606,9 @@ $LNG['vt_filejs']				     	= 'Java Script File';
 $LNG['vt_fileimg']				    	= 'Image file';
 $LNG['vt_filehtaccess']			     	= 'All files';
 $LNG['vt_fileok']					    = 'File Ok';
-$LNG['vt_filefail']					    = 'File Changed';
-$LNG['vt_filenew']					    = 'New File';
-$LNG['vt_fileerror']				    = 'Error';
+$LNG['vt_filefail']					    = 'File Cambiati';
+$LNG['vt_filenew']					    = 'Nuovi file';
+$LNG['vt_fileerror']				    = 'Errori';
 $LNG['vt_loadfile']					    = 'Loading file list';
 
 //###########################################################//
