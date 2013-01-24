@@ -598,18 +598,18 @@ $LNG['vt_error']					    = 'Hashfile is not available! - Run Update!';
 $LNG['vt_fail']						    = 'File modificati';
 $LNG['vt_info']						    = 'This list contains the files that were modified and does not correspond to the original.<br>If not did you change even the game, you must replace the files with the originals.';
 
-$LNG['vt_head']						    = 'Verify the game files';
-$LNG['vt_filephp']					    = 'PHP File';
-$LNG['vt_filetpl']					    = 'Template File';
-$LNG['vt_filecss']					    = 'CSS File';
-$LNG['vt_filejs']				     	= 'Java Script File';
-$LNG['vt_fileimg']				    	= 'Image file';
-$LNG['vt_filehtaccess']			     	= 'All files';
+$LNG['vt_head']						    = 'Verifica i file di gioco';
+$LNG['vt_filephp']					    = 'File PHP';
+$LNG['vt_filetpl']					    = 'File Template';
+$LNG['vt_filecss']					    = 'File CSS';
+$LNG['vt_filejs']				     	= 'File JavaScript';
+$LNG['vt_fileimg']				    	= 'Immagini';
+$LNG['vt_filehtaccess']			     	= 'Tutti i file';
 $LNG['vt_fileok']					    = 'File Ok';
 $LNG['vt_filefail']					    = 'File Cambiati';
 $LNG['vt_filenew']					    = 'Nuovi file';
 $LNG['vt_fileerror']				    = 'Errori';
-$LNG['vt_loadfile']					    = 'Loading file list';
+$LNG['vt_loadfile']					    = 'Caricamento della lista dei file';
 
 //###########################################################//
 
