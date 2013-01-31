@@ -1153,9 +1153,9 @@ $LNG['log_info']                        = 'Info';
 $LNG['log_element']                     = 'Elemento';
 $LNG['log_old']                         = 'Prima';
 $LNG['log_new']                         = 'Dopo';
-$LNG['log_player']                      = 'Pianeta modificato';
+$LNG['log_player']                      = 'Giocatore modificato';
 $LNG['log_planet']                      = 'Pianeta modificato';
-$LNG['log_settings']                    = 'Opzion cambiate';
+$LNG['log_settings']                    = 'Opzioni cambiate';
 $LNG['log_cat']                         = 'Scegli una categoria da registrare:';
 $LNG['log_no_data']                     = 'Non esistono dati disponibili nel log!';
 $LNG['log_ssettings']                   = 'Configurazione Gioco';
@@ -1165,8 +1165,8 @@ $LNG['log_chatsettings']                = 'Opzioni Chat';
 $LNG['log_tssettings']                  = 'Opzioni Teamspeak';
 $LNG['log_uni_short']                   = 'Uni';
 $LNG['log_universe']                    = 'Universo';
-$LNG['log_present']      	            = 'Distributed';
-$LNG['log_disclamersettings']			= 'Contacts';
+$LNG['log_present']      	            = 'Distribuito';
+$LNG['log_disclamersettings']			= 'Contatti';
 
 //CRONJOBS
 $LNG['cronName']['referral']		    = 'Referral Bonus';
