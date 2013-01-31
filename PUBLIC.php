@@ -85,7 +85,7 @@ $LNG['registerErrorPasswordSame']	    = 'Hai inserito 2 diverse password!';
 $LNG['registerErrorMailEmpty']	        = 'Devi inserire un indirizzo e-Mail!';
 $LNG['registerErrorMailInvalid']	    = 'Indirizzo email non valido!';
 $LNG['registerErrorMailSame']	        = 'Hai inserito 2 diverse email!';
-$LNG['registerErrorMailExist']       	= 'Quesa email &egrave; gi&agrave; stata presa!';
+$LNG['registerErrorMailExist']       	= 'Questa email &egrave; gi&agrave; stata presa!';
 $LNG['registerErrorRules']	            = 'Devi accettare il regolamento!';
 $LNG['registerErrorCaptcha']	        = 'Il codice di sicurezza &egrave; sbagliato!';
 
