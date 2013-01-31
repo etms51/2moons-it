@@ -519,19 +519,19 @@ $LNG['se_planets_per_tech_info']        = 'Questa &egrave; la quantit&agrave; di
 $LNG['ff_starttime']			        = "Partenza";
 $LNG['ff_mission']                		= 'Tipo di missione';
 $LNG['ff_ships']				        = "Navi";
-$LNG['ff_startuser']			        = "Sender";
-$LNG['ff_startplanet']			        = "Planet sender";
+$LNG['ff_startuser']			        = "Mittente";
+$LNG['ff_startplanet']			        = "Pianeta del mittente";
 $LNG['ff_fleetid']						= 'ID';
 $LNG['ff_arrivaltime']        			= 'Tempo di arrivo';
 $LNG['ff_lock']						    = 'Blocca';
 $LNG['ff_unlock']					    = 'Sblocca';
 $LNG['ff_no_fleets']					= 'Nessuna flotta &egrave assente al momento attuale.';
-$LNG['ff_targetuser']			        = "Recipient";
-$LNG['ff_targetplanet']			        = "Planet recipient";
-$LNG['ff_endtime']				        = "End time";
-$LNG['ff_holdtime']				        = "Time stopped";
-$LNG['ff_del']					        = "Remove";
-$LNG['ff_no_fleets']			        = "Is not present any fleet";
+$LNG['ff_targetuser']			        = "Destinatario";
+$LNG['ff_targetplanet']			        = "Pianeta di destinazione";
+$LNG['ff_endtime']				        = "Tempo terminato";
+$LNG['ff_holdtime']				        = "Tempo interrotto";
+$LNG['ff_del']					        = "Rimuovi";
+$LNG['ff_no_fleets']			        = "Non c'&egrave; nessun movimento di flotta";
 //###########################################################//
 
 //---------------	AGGIORNAMENTO CLASSIFICA	------------------------//
