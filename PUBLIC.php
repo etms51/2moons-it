@@ -71,7 +71,7 @@ $LNG['registerCaptcha']	                = 'Codice di sicurezza';
 $LNG['registerCaptchaDesc']	            = 'Per favore inserisci i caratteri che vedi nell\'immagine di sotto. Questo serve per verificare che sei un utente reale e non un bot';
 $LNG['registerCaptchaReload']	        = 'Ricarica Captcha.';
 $LNG['registerRules']	                = 'Regole';
-$LNG['registerRulesDesc']	            = 'Accetto il %s';
+$LNG['registerRulesDesc']	            = 'Accetto le %s';
 
 $LNG['registerBack']	                = 'Indietro';
 $LNG['registerNext']	                = 'Avanti';
