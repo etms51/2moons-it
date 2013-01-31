@@ -33,7 +33,7 @@ $LNG['uni_closed']	                    = ' (chiuso)';
 
 // Bottoni
 $LNG['buttonRegister']	                = 'Registrati Ora!';
-$LNG['buttonScreenshot']	            = 'Screenshots';
+$LNG['buttonScreenshot']	            = 'Screenshot';
 $LNG['buttonLostPassword']	            = 'Hai dimenticato la password?';
 
 // Start
@@ -49,7 +49,7 @@ $LNG['loginHeader']	                    = 'Login';
 $LNG['loginUsername']	                = 'Username';
 $LNG['loginPassword']	                = 'Password';
 $LNG['loginButton']	                    = 'Login';
-$LNG['loginInfo']	                    = 'Loggandomi accetto il %s.';
+$LNG['loginInfo']	                    = 'Facendo il login accetto le %s.';
 $LNG['loginWelcome']	                = 'Benvenuto su %s';
 $LNG['loginServerDesc']              	= '%s &egrave; un gioco spaziale di strategia in tempo reale dove potrai giocare con altre centinaia di giocatori. Tutto ci&ograve; di cui hai bisogno &egrave; un semplice browser.';
 
