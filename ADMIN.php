@@ -221,7 +221,7 @@ $LNG['bo_unban'] ='Sblocca';
 //###########################################################//
 
 //---------------	MD5  --------------------------//
-$LNG['et_md5_encripter']				= 'MD5 Generator';
+$LNG['et_md5_encripter']				= 'Generatore MD5';
 $LNG['et_pass']						    = 'Password';
 $LNG['et_result']					    = 'Risultato';
 $LNG['et_encript']					    = 'Cripta';
@@ -567,7 +567,7 @@ $LNG['mu_planet_list']                	= 'Lista pianeti';
 $LNG['mu_error_list']                	= 'Database errori';
 $LNG['mu_active_planets']            	= 'Attiva pianeti';
 $LNG['mu_tools']                    	= 'Tools';
-$LNG['mu_md5_encripter']            	= 'MD5 Encryptor';
+$LNG['mu_md5_encripter']            	= 'Cripta in MD5';
 $LNG['mu_optimize_db']                	= 'Database';
 $LNG['mu_manual_points_update']    		= 'Aggiorna punti manualmente';
 $LNG['mu_mpu_confirmation']        		= 'I punti vengono aggiornati automaticamente. Per aggiornarli manualmente, fare clic su OK';
